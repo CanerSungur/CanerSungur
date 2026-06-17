@@ -57,7 +57,7 @@ As a dedicated freelance developer, I architect and manage end-to-end production
 Before expanding fully into the full-stack web ecosystem, I spent years writing production code in the gaming industry:
 * **Prototype Engineering:** Developed 40+ hyper-casual mobile game prototypes, integrating core analytics systems to monitor engagement and user behavior metrics for market validation.
 * **Industry Dynamics:** Managed stock, pricing, and visual regulations for global game titles from Activision, Blizzard, EA, and Ubisoft during my early career.
-
+<!--
 ---
 
 ## 📈 GitHub Statistics
@@ -66,7 +66,7 @@ Before expanding fully into the full-stack web ecosystem, I spent years writing 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=canersungur&show_icons=true&locale=en&count_private=true&layout=compact" alt="Caner's GitHub Language Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=CanerSungur&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Caner's GitHub Stats" />
 </p>
-
+-->
 ---
 
 ## 📬 Let's Connect!
